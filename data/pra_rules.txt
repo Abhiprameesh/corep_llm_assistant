@@ -1,0 +1,11 @@
+PRA Own Funds Rule 1:
+Common Equity Tier 1 (CET1) capital includes ordinary share capital and retained earnings.
+
+PRA Own Funds Rule 2:
+Tier 1 capital consists of CET1 capital plus additional Tier 1 instruments.
+
+PRA Own Funds Rule 3:
+Total capital consists of Tier 1 capital and Tier 2 capital.
+
+PRA Own Funds Rule 4:
+Distributions such as dividends reduce CET1 capital.

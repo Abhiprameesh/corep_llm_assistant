@@ -1,0 +1,11 @@
+COREP Instruction F1:
+Field F1 represents Common Equity Tier 1 capital.
+
+COREP Instruction F2:
+Field F2 represents Tier 1 capital.
+
+COREP Instruction F3:
+Field F3 represents Total capital.
+
+COREP Instruction F4:
+Field F4 represents Risk Weighted Assets.
